@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Artem, a novice frontend developer from 🇷🇺 Russia 
+I'm Artem, a novice frontend developer from Russia 
 
 ⚡ About me ⚡
 🌱 I am currently studying at frontend developer courses
