@@ -2,7 +2,9 @@
 
 ⚡ About me ⚡
 🌱 I am currently studying at frontend developer courses
+
 📫 How to reach me: ~Telegram: @SkySon8
+
 😄 Fun fact: I am easy to teach and always achieve my goal
 <!--
 **SkySon8/SkySon8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
