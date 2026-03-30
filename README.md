@@ -5,7 +5,7 @@ I'm Artem, a novice frontend developer from Russia
 -----------------------------------------------------------
 
 ⚡ About me ⚡
-🌱 I am currently studying at frontend developer courses
+🌱 Ftontend developer / Ux/ui designer
 
 📫 How to reach me: ~Telegram: @SkySon8
 
